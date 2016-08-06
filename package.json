@@ -1,0 +1,27 @@
+{
+  "name": "express-autoroutes",
+  "version": "0.0.1",
+  "description": "Route's autoloader for express.js framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gallale-js/express-autoroutes.git"
+  },
+  "keywords": [
+    "express",
+    "routes",
+    "autoload",
+    "route-autoload",
+    "autoroute",
+    "autoroutes"
+  ],
+  "author": "Claudio Ale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gallale-js/express-autoroutes/issues"
+  },
+  "homepage": "https://github.com/gallale-js/express-autoroutes#readme"
+}
